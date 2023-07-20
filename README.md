@@ -1,6 +1,6 @@
 # winston
 
-A logger for just about everything.
+BA logger for just about everything.
 
 [![Version npm](https://img.shields.io/npm/v/winston.svg?style=flat-square)](https://www.npmjs.com/package/winston)
 [![npm Downloads](https://img.shields.io/npm/dm/winston.svg?style=flat-square)](https://npmcharts.com/compare/winston?minimal=true)
